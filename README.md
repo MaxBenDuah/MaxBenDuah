@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-##I'm Maxwell, a Fullstack developer with an insatiable curiosity for technology on a mission to turn lines of code into seamless digital experiences.:
+## I'm Maxwell, a Fullstack developer with an insatiable curiosity for technology on a mission to turn lines of code into seamless digital experiences.:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxwellben728.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-duah/)
