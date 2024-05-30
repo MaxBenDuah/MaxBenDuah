@@ -15,22 +15,24 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=%23CC6699)
+  ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=333333&color=%23E34F26)
+  ![CSS3](https://img.shields.io/badge/Css3-333333?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=333333&color=%231572B6)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=333333&color=%23F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=333333&color=%237952B3)
+  ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=333333&color=%2361DAFB)
+  ![Sass](https://img.shields.io/badge/Sass-333333?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=333333&color=%23CC6699)
   ![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=333333&color=%2306B6D4)
+  ![TypeScript](https://img.shields.io/badge/Typescript-333333?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=333333&color=%233178C6)
 
 - 🛢 &nbsp;
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=333333&color=%235FA04E)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=333333&color=%2347A248)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=333333&color=%23F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23fff&color=%23181717)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=333333&color=%23007ACC)
+
 
 <details>
   <summary>:zap: Github Stats</summary>
